@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data.iml" filepath="$PROJECT_DIR$/.idea/modules/data.iml" group="data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data_main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data_main.iml" group="data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data_test.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data_test.iml" group="data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/domain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/domain_main.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/domain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/domain_test.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/vertx_rest_api.iml" filepath="$PROJECT_DIR$/vertx_rest_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vertx_rest_api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vertx_rest_api_main.iml" group="vertx_rest_api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vertx_rest_api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vertx_rest_api_test.iml" group="vertx_rest_api" />
+    </modules>
+  </component>
+</project>
